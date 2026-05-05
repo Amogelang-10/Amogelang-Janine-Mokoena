@@ -13,11 +13,12 @@ Git, Docker, Power BI, Arduino
 Cloud & Platforms: 
 AWS, Azure, Supabase
 
-## Projects
+### Projects
 -  Eletsa Secondary School DBFull relational database for a secondary school — ERD design, 3NF normalisation, stored procedures & backup strategy. SQL Server, T-SQL
 -  Scripting & Syntax CheckerMenu-driven application that checks and validates scripting syntax, helping developers catch errors quickly.Python, Scripting
 -  Gadget Catalog WebsiteA web-based catalog for browsing and showcasing gadgets with a clean, interactive UI. HTML, CSS, JavaScript
 -  Software Testing ProjectStructured software testing project covering test planning, test cases, and bug reportingTesting, Java/Python
 
-## Cv
--
+#### Cv
+You can view or download my latest CV here:
+- https://drive.google.com/file/d/1ktPPy4Ekzl5ihvVvauzER8ttQzrbl0NN/view?usp=drive_link
