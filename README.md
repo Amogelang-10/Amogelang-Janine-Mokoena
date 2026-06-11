@@ -6,18 +6,20 @@ Passionate about databases, software development, and building systems that solv
 Open to internship and graduate opportunities in software or data engineering
 
 ## Skills
-Programming:
-Python, Java, C++, JavaScript, SQL  
-Tools & Technologies:
-Git, Docker, Power BI, Arduino  
-Cloud & Platforms: 
-AWS, Azure, Supabase
+Programming Languages : 
+Python, Java, C++, JavaScript, SQL, HTML, CSS  
+
 
 ### Projects
 -  Eletsa Secondary School DBFull relational database for a secondary school — ERD design, 3NF normalisation, stored procedures & backup strategy. SQL Server, T-SQL
 -  Scripting & Syntax CheckerMenu-driven application that checks and validates scripting syntax, helping developers catch errors quickly.Python, Scripting
 -  Gadget Catalog WebsiteA web-based catalog for browsing and showcasing gadgets with a clean, interactive UI. HTML, CSS, JavaScript
 -  Software Testing ProjectStructured software testing project covering test planning, test cases, and bug reportingTesting, Java/Python
+
+### Currently
+- Studying IT at Belgium Campus
+- Open to internship opportunities
+- Always learning something new
 
 #### Cv
 You can view or download my latest CV here:
